@@ -1,7 +1,7 @@
 # [JSL03] Project Submission: Which one is which? Declarative or Imperative?!
 
 Loom Recording Link: Imperative programming style -  example 1 : https://www.loom.com/share/96dfda3034ac4e27bf464b9bca6fc6c8?sid=593720d5-4965-4c52-8532-ef7fd0df1373
-Loom Recording Link: Declarative programming style - example 2 : https://www.loom.com/share/739f8a51864e463fbd589a42d5dd7462?sid=eb3d537a-78cf-473a-b8f2-5cf19795492c
+Loom Recording Link: Declarative programming style - example 2 : https://www.loom.com/share/739f8a51864e463fbd589a42d5dd7462?sid=7286234c-f0b2-4b31-b54f-1e638d0f77e0
 
 # Project Overview
 
